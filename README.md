@@ -17,7 +17,7 @@ Body Mass Index (BMI) is an important measurement of human obesity and health, w
 - skikit-learn 0.22.1
 
 ### Tips
-- The process of Anthropometric Features extraction is showed in other paper repository, We only have JSON files in our repository。
+- The process of Anthropometric Features extraction is showed in other paper repository, We only have JSON files in our repository.
 - You can download the 3D Features extracted model by 
 ```
 wget https://people.eecs.berkeley.edu/~kanazawa/cachedir/hmr/models.tar.gz && tar -xf models.tar.gz
