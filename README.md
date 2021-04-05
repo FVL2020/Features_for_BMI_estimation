@@ -22,3 +22,14 @@ Body Mass Index (BMI) is an important measurement of human obesity and health, w
 ```
 wget https://people.eecs.berkeley.edu/~kanazawa/cachedir/hmr/models.tar.gz && tar -xf models.tar.gz
 ```
+If you find our work useful in your research or publications, please consider citing:
+'''
+Citation
+@InProceedings{HuangBMI_ICME21,
+    title={SEEING HEALTH WITH EYES: FEATURE COMBINATION FOR IMAGE-BASED HUMAN BMI ESTIMATION},
+    author={Huang, Junjia and Shang, Chenming and Xiong, Aolin and Pang, Yuxian and Jin, Zhi},
+    booktitle = {Proceedings of the IEEE International Conference on Multimedia & Expo (ICME)},
+     month = {June}, 
+     year={2021},
+}
+'''
