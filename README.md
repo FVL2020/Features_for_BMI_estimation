@@ -24,7 +24,7 @@ wget https://people.eecs.berkeley.edu/~kanazawa/cachedir/hmr/models.tar.gz && ta
 ```
 If you find our work useful in your research or publications, please consider citing:
 ```
-Citation
+### Citation
 @InProceedings{HuangBMI_ICME21,
     title={SEEING HEALTH WITH EYES: FEATURE COMBINATION FOR IMAGE-BASED HUMAN BMI ESTIMATION},
     author={Huang, Junjia and Shang, Chenming and Xiong, Aolin and Pang, Yuxian and Jin, Zhi},
@@ -33,3 +33,5 @@ Citation
      year={2021},
 }
 ```
+### License
+This repository is released under the MIT License as found in the LICENSE file. Code in this repo is for non-commercial use only.
