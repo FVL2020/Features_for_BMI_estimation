@@ -24,6 +24,7 @@ wget https://people.eecs.berkeley.edu/~kanazawa/cachedir/hmr/models.tar.gz && ta
 ```
 ### Citation
 If you find our work useful in your research or publications, please consider citing:
+```
 @InProceedings{HuangBMI_ICME21,
     title={SEEING HEALTH WITH EYES: FEATURE COMBINATION FOR IMAGE-BASED HUMAN BMI ESTIMATION},
     author={Huang, Junjia and Shang, Chenming and Xiong, Aolin and Pang, Yuxian and Jin, Zhi},
